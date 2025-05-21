@@ -1,15 +1,20 @@
-# certificate-generator
-this is Live web application which can be used to generate certificates by dynamically giving names , It is developed using HTML , CSS , JS
+# 🎓 Certificate Generator
 
-Live WebSite:- https://certificategen.netlify.app/
+This is a **live web application** that allows users to dynamically generate certificates by entering their names.
 
-Demo:-
+## 🚀 Features
+- Real-time name input
+- Automatic certificate rendering
+- Easy-to-use interface
 
+## 🛠️ Technologies Used
+- **HTML** – for structuring the web page  
+- **CSS** – for styling the UI  
+- **JavaScript** – for dynamic PDF generation using [pdf-lib](https://pdf-lib.js.org/) and [FileSaver.js](https://github.com/eligrey/FileSaver.js)
 
-![image](https://user-images.githubusercontent.com/97879633/153816726-2be362a6-a173-4e5f-a251-1329087da03c.png)
+## 🖼️ Demo
+> A user-friendly form to input names and generate professional-looking certificates on the fly.
 
+---
 
-![image](https://user-images.githubusercontent.com/97879633/153817085-c5376731-4848-4526-9939-4a4e8ad4565d.png)
-
-
-
+✨ Customize the certificate design or extend it with features like email delivery or QR code verification!
